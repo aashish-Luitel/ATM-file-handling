@@ -73,21 +73,16 @@ ATM File Handling/
 
 ### Main Menu
 
-*Add screenshot here.*
+main_menu.png*
 
 ### Withdrawal
 
-*Add screenshot here.*
+withdraw.png
 
 ### Deposit
 
-*Add screenshot here.*
+deposition.png
 
-### Balance Persistence
-
-The balance remains saved even after closing and reopening the program.
-
-*Add screenshot(s) here.*
 
 ## 📚 What I Learned
 
