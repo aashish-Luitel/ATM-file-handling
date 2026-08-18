@@ -73,7 +73,7 @@ ATM File Handling/
 
 ### Main Menu
 
-main_menu.png*
+./main_menu.png
 
 ### Withdrawal
 
