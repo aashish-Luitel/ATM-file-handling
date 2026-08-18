@@ -73,15 +73,15 @@ ATM File Handling/
 
 ### Main Menu
 
-./main_menu.png
+![Main Menu](./main_menu.png)
 
 ### Withdrawal
 
-withdraw.png
+![Withdrawal](./withdraw.png)
 
 ### Deposit
 
-deposition.png
+![Deposit](./deposition.png)
 
 
 ## 📚 What I Learned
